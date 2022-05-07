@@ -1,0 +1,5 @@
+Adicionando nova pasta no repositório:
+
+1 - git add . (vai adicionar a nova pasta local)
+2 - git commit -m "nome da nova inclusão"
+3 - git push origin main (adiciona no local público)
